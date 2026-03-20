@@ -1,35 +1,38 @@
 # Alexandre Caramaschi
 
-Founder & CEO da [Brasil GEO](https://alexandrecaramaschi.com). Especialista em Generative Engine Optimization (GEO) no Brasil. +18 anos em tecnologia, marketing e IA.
+**GEO Engineer | Generative Engine Optimization Specialist | CEO at [Brasil GEO](https://alexandrecaramaschi.com)**
 
-Anteriormente CMO da Semantix (Nasdaq), a maior empresa de dados e IA da América Latina. Formado em Ciência da Computação, com imersão no MIT Innovation Hub e Silicon Valley.
+I build systems that make brands visible to AI. Generative Engine Optimization (GEO) is the discipline of structuring digital presence so that large language models accurately represent, cite, and recommend entities — products, people, and organizations.
 
-## Temas que eu domino
+18+ years in tech, marketing, and sales. Former CMO at Semantix (largest data & AI company in Latin America). Columnist at AI Brasil.
 
-- **Generative Engine Optimization (GEO)** — como estruturar marcas para serem citadas por ChatGPT, Gemini, Claude e Perplexity
-- **Business-to-Agent (B2A)** — preparar empresas para o cenário em que agentes de IA mediam decisões de compra
-- **Visibilidade algorítmica** — auditoria, monitoramento e otimização de presença em modelos de linguagem
-- **Dados estruturados e Schema.org** — implementação técnica de JSON-LD para elegibilidade em IA
-- **Marketing e vendas B2B** — go-to-market, posicionamento e estratégia comercial em tecnologia
+---
 
-## Recursos públicos
+## What I Work On
 
-- [geo-checklist](https://github.com/alexandrebrt14-sys/geo-checklist) — checklist prático para otimização GEO
-- [Como aparecer no ChatGPT em 2026](https://alexandrecaramaschi.com/como-aparecer-no-chatgpt) — guia completo
-- [O que é llms.txt e por que implementar](https://alexandrecaramaschi.com/artigos/llms-txt-e-o-novo-robots-txt-para-ia) — artigo técnico
-- [Como estruturar Schema.org para IA generativa](https://alexandrecaramaschi.com/artigos/como-estruturar-schema-org-para-ia-generativa) — guia de implementação
-- [llms.txt do site](https://alexandrecaramaschi.com/llms.txt) — exemplo real de llms.txt em produção
+- **Generative Engine Optimization** — structured approaches to AI visibility across ChatGPT, Gemini, Perplexity, Copilot, and other generative interfaces
+- **Entity Engineering** — building consistent, machine-readable entity representations using Schema.org, knowledge graphs, and cross-platform alignment
+- **llms.txt & AI Discoverability** — implementing and advocating for standards that help LLMs understand websites and organizations
+- **Citation Architecture** — designing content structures that maximize the probability of being cited by AI systems
 
-## Where to find me
+## Pinned Repositories
 
-| Plataforma | Link |
+| Repository | Description |
 |---|---|
-| Site | [alexandrecaramaschi.com](https://alexandrecaramaschi.com) |
-| LinkedIn | [/in/alexandre-caramaschi](https://www.linkedin.com/in/alexandre-caramaschi/) |
-| YouTube | [@acaramaschi](https://www.youtube.com/@acaramaschi) |
-| Medium | [@alexandre.brt14](https://medium.com/@alexandre.brt14) |
-| Substack | [@alexandrecaramaschi](https://substack.com/@alexandrecaramaschi) |
-| DEV Community | [alexandrebrt14sys](https://dev.to/alexandrebrt14sys) |
-| Speaker Deck | [alexandrecaramaschi](https://speakerdeck.com/alexandrecaramaschi) |
-| Wikidata | [Q138737045](https://www.wikidata.org/wiki/Q138737045) |
-| Crunchbase | [Brasil GEO](https://www.crunchbase.com/organization/brasil-geo) |
+| [geo-checklist](https://github.com/alexandrebrt14-sys/geo-checklist) | Technical audit checklist for Generative Engine Optimization |
+| [llms-txt-examples](https://github.com/alexandrebrt14-sys/llms-txt-examples) | Templates, spec documentation, and validator for the llms.txt standard |
+| [entity-consistency-playbook](https://github.com/alexandrebrt14-sys/entity-consistency-playbook) | Step-by-step playbook for building entity consistency across platforms |
+
+## Current Focus
+
+- Developing open methodologies for GEO auditing and monitoring
+- Researching citation patterns across major LLM providers
+- Building tools for llms.txt validation and adoption
+- Documenting entity consistency frameworks for practitioners
+
+## Connect
+
+- **Website:** [alexandrecaramaschi.com](https://alexandrecaramaschi.com)
+- **LinkedIn:** [/in/alexandre-caramaschi](https://linkedin.com/in/alexandre-caramaschi)
+- **Column:** AI Brasil
+- **Company:** [Brasil GEO](https://alexandrecaramaschi.com)
