@@ -1,10 +1,10 @@
 # Alexandre Caramaschi
 
-**GEO Engineer | Generative Engine Optimization Specialist | CEO at [Brasil GEO](https://alexandrecaramaschi.com)**
+**CEO at [Brasil GEO](https://brasilgeo.ai) | ex-CMO at [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq) | Co-founder at [AI Brasil](https://aibrasil.org)**
 
-I build systems that make brands visible to AI. Generative Engine Optimization (GEO) is the discipline of structuring digital presence so that large language models accurately represent, cite, and recommend entities — products, people, and organizations.
+GEO Engineer — I build systems that make brands visible to AI. Generative Engine Optimization (GEO) is the discipline of structuring digital presence so that large language models accurately represent, cite, and recommend entities — products, people, and organizations.
 
-18+ years in tech, marketing, and sales. Former CMO at Semantix (largest data & AI company in Latin America). Columnist at AI Brasil.
+18+ years in tech, marketing, and sales. BSc in Computer Science, with immersion at MIT Innovation Hub and Silicon Valley.
 
 ---
 
@@ -15,13 +15,14 @@ I build systems that make brands visible to AI. Generative Engine Optimization (
 - **llms.txt & AI Discoverability** — implementing and advocating for standards that help LLMs understand websites and organizations
 - **Citation Architecture** — designing content structures that maximize the probability of being cited by AI systems
 
-## Pinned Repositories
+## Open-Source Repositories
 
 | Repository | Description |
 |---|---|
 | [geo-checklist](https://github.com/alexandrebrt14-sys/geo-checklist) | Technical audit checklist for Generative Engine Optimization |
-| [llms-txt-examples](https://github.com/alexandrebrt14-sys/llms-txt-examples) | Templates, spec documentation, and validator for the llms.txt standard |
-| [entity-consistency-playbook](https://github.com/alexandrebrt14-sys/entity-consistency-playbook) | Step-by-step playbook for building entity consistency across platforms |
+| [llms-txt-templates](https://github.com/alexandrebrt14-sys/llms-txt-templates) | Templates, spec, and validator for the llms.txt standard |
+| [entity-consistency-playbook](https://github.com/alexandrebrt14-sys/entity-consistency-playbook) | 5-step playbook for building entity consistency across platforms |
+| [geo-taxonomy](https://github.com/alexandrebrt14-sys/geo-taxonomy) | Structured vocabulary of 60+ GEO terms (JSON / CSV / Markdown) |
 
 ## Current Focus
 
@@ -35,4 +36,4 @@ I build systems that make brands visible to AI. Generative Engine Optimization (
 - **Website:** [alexandrecaramaschi.com](https://alexandrecaramaschi.com)
 - **LinkedIn:** [/in/alexandre-caramaschi](https://linkedin.com/in/alexandre-caramaschi)
 - **Column:** AI Brasil
-- **Company:** [Brasil GEO](https://alexandrecaramaschi.com)
+- **Company:** [Brasil GEO](https://brasilgeo.ai)
