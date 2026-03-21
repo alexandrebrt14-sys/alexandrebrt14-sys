@@ -1,6 +1,12 @@
 # Alexandre Caramaschi
 
-**CEO da [Brasil GEO](https://brasilgeo.ai), ex-CMO da [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq), cofundador da [AI Brasil](https://aibrasil.org)**
+**CEO da [Brasil GEO](https://brasilgeo.ai) | ex-CMO da [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq) | Cofundador da [AI Brasil](https://aibrasil.com.br)**
+
+![GEO](https://img.shields.io/badge/GEO-Generative_Engine_Optimization-0176d3?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript)
+![Schema.org](https://img.shields.io/badge/Schema.org-29_types-2e844a?style=flat-square)
+![llms.txt](https://img.shields.io/badge/llms.txt-v8.0-ff6b35?style=flat-square)
 
 GEO Engineer — I build systems that make brands visible to AI. Generative Engine Optimization (GEO) is the discipline of structuring digital presence so that large language models accurately represent, cite, and recommend entities — products, people, and organizations.
 
@@ -15,19 +21,37 @@ GEO Engineer — I build systems that make brands visible to AI. Generative Engi
 - **Entity Consistency** — structuring machine-readable entity representations across platforms using Schema.org and knowledge graphs
 - **Citation Architecture** — designing content structures that maximize the probability of being cited by AI systems
 - **B2A (Business-to-Agent)** — researching how organizations should present themselves to autonomous AI agents
+- **Zero-Click Economy** — analyzing the impact of AI-generated answers on organic traffic and revenue
 
 ## Open-Source Repositories
 
-| Repository | Description |
-|---|---|
-| [geo-checklist](https://github.com/alexandrebrt14-sys/geo-checklist) | Technical audit checklist for Generative Engine Optimization |
-| [llms-txt-templates](https://github.com/alexandrebrt14-sys/llms-txt-templates) | Templates, spec, and validator for the llms.txt standard |
-| [entity-consistency-playbook](https://github.com/alexandrebrt14-sys/entity-consistency-playbook) | 5-step playbook for building entity consistency across platforms |
-| [geo-taxonomy](https://github.com/alexandrebrt14-sys/geo-taxonomy) | Structured vocabulary of 60+ GEO terms (JSON / CSV / Markdown) |
+| Repository | Description | License |
+|---|---|---|
+| [geo-checklist](https://github.com/alexandrebrt14-sys/geo-checklist) | Technical audit checklist for Generative Engine Optimization | MIT |
+| [llms-txt-templates](https://github.com/alexandrebrt14-sys/llms-txt-templates) | Templates, spec, and validator for the llms.txt standard | MIT |
+| [entity-consistency-playbook](https://github.com/alexandrebrt14-sys/entity-consistency-playbook) | 5-step playbook for building entity consistency across platforms | MIT |
+| [geo-taxonomy](https://github.com/alexandrebrt14-sys/geo-taxonomy) | Structured vocabulary of 60+ GEO terms (JSON / CSV / Markdown) | CC BY 4.0 |
+
+## Latest Insights
+
+- [CMO Guide: Protecting Revenue in the Zero-Click Era with GEO](https://alexandrecaramaschi.com/insights/cmo-guide-geo-2026)
+- [GEO for Healthcare and Pharma: Algorithmic Visibility in Regulated Markets](https://alexandrecaramaschi.com/insights/saude-farma-geo)
+- [GEO for Fintechs: How Digital Banks Dominate AI Responses](https://alexandrecaramaschi.com/insights/fintech-pagamentos-geo)
+- [The Great Inversion: Digital Discovery Flow Changed Direction](https://alexandrecaramaschi.com/insights/grande-inversao-ia)
+- [ROI of GEO: The Business Case](https://alexandrecaramaschi.com/insights/roi-geo-business-case)
+
+## Ecosystem
+
+| Property | Stack | Pages | Status |
+|---|---|---|---|
+| [alexandrecaramaschi.com](https://alexandrecaramaschi.com) | Next.js 16 + Vercel | 60+ pages, 25 insights, 21 articles | Production |
+| [brasilgeo.ai](https://brasilgeo.ai) | Cloudflare Workers | 20 pages, 11 technical articles | Production |
 
 ## Connect
 
 - **Website:** [alexandrecaramaschi.com](https://alexandrecaramaschi.com)
-- **Company:** [Brasil GEO](https://brasilgeo.ai)
+- **Company:** [brasilgeo.ai](https://brasilgeo.ai)
 - **LinkedIn:** [/in/alexandre-caramaschi](https://linkedin.com/in/alexandre-caramaschi)
-- **Column:** [AI Brasil](https://aibrasil.org)
+- **Column:** [AI Brasil](https://aibrasil.com.br/colunista/alexandrecaramaschi)
+- **Substack:** [@alexandrecaramaschi](https://substack.com/@alexandrecaramaschi)
+- **llms.txt:** [alexandrecaramaschi.com/llms.txt](https://alexandrecaramaschi.com/llms.txt)
