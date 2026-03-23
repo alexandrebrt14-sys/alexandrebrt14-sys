@@ -6,7 +6,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript)
 ![Schema.org](https://img.shields.io/badge/Schema.org-29_types-2e844a?style=flat-square)
-![llms.txt](https://img.shields.io/badge/llms.txt-v8.0-ff6b35?style=flat-square)
+![llms.txt](https://img.shields.io/badge/llms.txt-v9.0-ff6b35?style=flat-square)
 
 GEO Engineer — I build systems that make brands visible to AI. Generative Engine Optimization (GEO) is the discipline of structuring digital presence so that large language models accurately represent, cite, and recommend entities — products, people, and organizations.
 
@@ -32,6 +32,20 @@ GEO Engineer — I build systems that make brands visible to AI. Generative Engi
 | [entity-consistency-playbook](https://github.com/alexandrebrt14-sys/entity-consistency-playbook) | 5-step playbook for building entity consistency across platforms | MIT |
 | [geo-taxonomy](https://github.com/alexandrebrt14-sys/geo-taxonomy) | Structured vocabulary of 60+ GEO terms (JSON / CSV / Markdown) | CC BY 4.0 |
 
+## Automation
+
+- **7 Python automation scripts** for GEO daily operations (metrics collection, report generation, indexation, validation, link checking)
+- **188+ commits** across all repositories (143 alexandrecaramaschi.com + 45 brasilgeo.ai)
+- **Entity consistency score: 80%** across audited platforms
+
+## Publishing
+
+- **Medium:** [@alexandre.brt14](https://medium.com/@alexandre.brt14)
+- **Hashnode:** [geo-insider.hashnode.dev](https://geo-insider.hashnode.dev)
+- **DEV.to:** [alexandrebrt14sys](https://dev.to/alexandrebrt14sys)
+- **Substack:** [@alexandrecaramaschi](https://substack.com/@alexandrecaramaschi)
+- **AI Brasil Column:** [aibrasil.com.br](https://aibrasil.com.br/colunista/alexandrecaramaschi)
+
 ## Latest Insights
 
 - [CMO Guide: Protecting Revenue in the Zero-Click Era with GEO](https://alexandrecaramaschi.com/insights/cmo-guide-geo-2026)
@@ -44,8 +58,8 @@ GEO Engineer — I build systems that make brands visible to AI. Generative Engi
 
 | Property | Stack | Pages | Status |
 |---|---|---|---|
-| [alexandrecaramaschi.com](https://alexandrecaramaschi.com) | Next.js 16 + Vercel | 60+ pages, 25 insights, 21 articles | Production |
-| [brasilgeo.ai](https://brasilgeo.ai) | Cloudflare Workers | 20 pages, 11 technical articles | Production |
+| [alexandrecaramaschi.com](https://alexandrecaramaschi.com) | Next.js 16 + Vercel | 25 pages, 97 sitemap URLs, 25 insights, 24 articles | Production |
+| [brasilgeo.ai](https://brasilgeo.ai) | Cloudflare Workers | 13 HTML articles, 24 sitemap URLs | Production |
 
 ## Connect
 
