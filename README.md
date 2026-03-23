@@ -58,7 +58,7 @@ GEO Engineer — I build systems that make brands visible to AI. Generative Engi
 
 | Property | Stack | Pages | Status |
 |---|---|---|---|
-| [alexandrecaramaschi.com](https://alexandrecaramaschi.com) | Next.js 16 + Vercel | 25 pages, 97 sitemap URLs, 25 insights, 24 articles | Production |
+| [alexandrecaramaschi.com](https://alexandrecaramaschi.com) | Next.js 16 + Vercel | 25 pages, 97 sitemap URLs, 26 insights, 26 articles | Production |
 | [brasilgeo.ai](https://brasilgeo.ai) | Cloudflare Workers | 13 HTML articles, 24 sitemap URLs | Production |
 
 ## Connect
