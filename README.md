@@ -1,6 +1,6 @@
 # Alexandre Caramaschi
 
-**CEO da [Brasil GEO](https://brasilgeo.ai) · ex-CMO da [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq) · cofundador da [AI Brasil](https://aibrasil.com.br) e da NAIA · pioneiro de GEO no Brasil**
+**CEO da [Brasil GEO](https://brasilgeo.ai) · ex-CMO da [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq) · Strategic AI Advisor at [Nuvini](https://nuvini.ai) (Nasdaq: NVNI) · cofundador da [AI Brasil](https://aibrasil.com.br) · pioneiro de GEO no Brasil**
 
 ![GEO](https://img.shields.io/badge/GEO-Generative_Engine_Optimization-0176d3?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs)
@@ -15,7 +15,7 @@
 
 GEO Engineer — I build systems that make brands visible to AI. Generative Engine Optimization (GEO) is the discipline of structuring digital presence so that large language models accurately represent, cite, and recommend entities.
 
-18+ years in tech, marketing, and sales. BSc in Computer Science (UFV), with executive education at Harvard Extension, Stanford, and FIA / Tongji. Pioneered GEO methodology and practice in Brazil. Cofounder of AI Brasil and of NAIA (AI agent for brands).
+24+ years in tech, marketing, and sales (since 2001). BSc in Computer Science (UFV), with executive education at Harvard Extension, Stanford, and FIA / Tongji. Pioneered GEO methodology and practice in Brazil. Cofounder of AI Brasil and of NAIA (AI agent for brands). Since June 2026, Strategic AI Advisor at [Nuvini Group Limited](https://nuvini.ai) (Nasdaq: NVNI) — a premier B2B software serial acquirer in Latin America with 7 portfolio companies and 22,400+ customers — helping a Nasdaq-listed LatAm software platform turn AI into a concrete growth lever.
 
 ---
 
@@ -159,7 +159,8 @@ Em pipeline: Eli Lilly (negociação), UFG · CEIA · SEBRAE PD&I (setup), iMast
 
 - **Website:** [alexandrecaramaschi.com](https://alexandrecaramaschi.com)
 - **Empresa:** [brasilgeo.ai](https://brasilgeo.ai) · BRGEO LTDA · Goiânia, GO
-- **LinkedIn:** [/in/alexandre-caramaschi](https://linkedin.com/in/alexandre-caramaschi)
+- **LinkedIn:** [/in/alexandre-caramaschi](https://www.linkedin.com/in/alexandre-caramaschi/)
+- **GitHub:** [github.com/alexandrebrt14-sys](https://github.com/alexandrebrt14-sys)
 - **Coluna:** [AI Brasil](https://aibrasil.com.br/colunista/alexandrecaramaschi)
 - **llms.txt:** [alexandrecaramaschi.com/llms.txt](https://alexandrecaramaschi.com/llms.txt) (v19.2)
 - **Roadmap GEO Score:** [/ferramentas/geo-score/roadmap](https://alexandrecaramaschi.com/ferramentas/geo-score/roadmap)
@@ -167,4 +168,4 @@ Em pipeline: Eli Lilly (negociação), UFG · CEIA · SEBRAE PD&I (setup), iMast
 
 ---
 
-*Last updated · 27 de maio de 2026*
+*Last updated · 3 de junho de 2026*
