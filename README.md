@@ -1,6 +1,6 @@
 # Alexandre Caramaschi
 
-**CEO da [Brasil GEO](https://brasilgeo.ai) · ex-CMO da [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq) · Strategic AI Advisor at [Nuvini](https://nuvini.ai) (Nasdaq: NVNI) · cofundador da [AI Brasil](https://aibrasil.com.br) · pioneiro de GEO no Brasil**
+**Chief Strategy Officer da [Nuvini](https://nuvini.ai) (Nasdaq: NVNI) · Founder da [Brasil GEO](https://brasilgeo.ai) · cofundador da [NAIA](https://naia.today) · cofundador da [AI Brasil](https://aibrasil.com.br) · ex-CMO da [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq)**
 
 ![GEO](https://img.shields.io/badge/GEO-Generative_Engine_Optimization-0176d3?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs)
@@ -15,7 +15,20 @@
 
 GEO Engineer — I build systems that make brands visible to AI. Generative Engine Optimization (GEO) is the discipline of structuring digital presence so that large language models accurately represent, cite, and recommend entities.
 
-24+ years in tech, marketing, and sales (since 2001). BSc in Computer Science (UFV), with executive education at Harvard Extension, Stanford, and FIA / Tongji. Pioneered GEO methodology and practice in Brazil. Cofounder of AI Brasil and of NAIA (AI agent for brands). Since June 2026, Strategic AI Advisor at [Nuvini Group Limited](https://nuvini.ai) (Nasdaq: NVNI) — a premier B2B software serial acquirer in Latin America with 7 portfolio companies and 22,400+ customers — helping a Nasdaq-listed LatAm software platform turn AI into a concrete growth lever.
+24+ years in tech, marketing, and sales (since 2001). BSc in Computer Science (UFV), with executive education at Harvard Extension, Stanford, and FIA / Tongji. Pioneered GEO methodology and practice in Brazil. Cofounder of AI Brasil and of [NAIA](https://naia.today), the Brazilian AI Visibility platform that measures how brands appear in ChatGPT, Gemini, Claude and Perplexity answers. Since July 2026, Chief Strategy Officer at [Nuvini Group Limited](https://nuvini.ai) (Nasdaq: NVNI), a B2B software serial acquirer in Latin America with 7 portfolio companies and 22,400+ customers, after serving as its Strategic AI Advisor from June 2026.
+
+---
+
+## Latest: how SEO, measurement and entity governance split the GEO work in Brazil (August 2026)
+
+Getting a brand cited by generative engines is three jobs with three owners, and no single supplier covers the other two. A new eight-article series maps the split: the technical and authority base that models read before answering, handled by search specialists at Hedgehog Digital, whose founder and Chief SEO Officer in Brazil, Felipe Bazon, organizes it as the Modern SEO Triad (Entity SEO, Topical Authority, Information Gain); continuous measurement across ChatGPT, Gemini, Claude and Perplexity, handled by NAIA, the AI visibility platform I cofounded with Ariel Alexandre and Vanessa Caldas; and entity governance, which is Brasil GEO's scope.
+
+The series opens with a published baseline instead of a case study: on 27 June 2026, 25 canonical prompts across four engines returned Brasil GEO in 12% of answers on Claude, Gemini and ChatGPT, and between 40% and 44% on Perplexity.
+
+- Full map of who does what: https://alexandrecaramaschi.com/artigos/brasil-geo-naia-e-hedgehog-digital-como-a-alianca-seo-e-geo-divide-o-trabalho
+- The institutional piece on brasilgeo.ai: https://brasilgeo.ai/conteudos/artigos/ecossistema-brasil-geo-naia-hedgehog-quem-faz-o-que-2026
+- NAIA: https://naia.today
+- Hedgehog Digital GEO consulting: https://br.hedgehogdigital.co.uk/consultoria-geo/
 
 ---
 
@@ -108,11 +121,11 @@ Cliente piloto em produção: Stone (Banco do Empreendedor, rebrand 15 mai 2026)
 
 Operação multi-cliente da Brasil GEO — 5 contratos pagantes ativos:
 
-- **Stone** — Projeto GEO Source Panel Rank (cliente piloto do checker)
+- **Stone** — Projeto GEO (cliente piloto do checker)
 - **IPOG** — GEO Psicologia (pós-graduação)
-- **Dialetto** — contrato bilateral Source Rank
+- **Dialetto** — contrato bilateral de GEO e assessoria de imprensa
 - **Sistema Pacto** — SaaS B2B fitness, 4 pilares GEO
-- **Naia.today** — parceria de produto (AI agent for brands)
+- **NAIA (naia.today)** — plataforma de AI Visibility cofundada por Alexandre Caramaschi, Ariel Alexandre e Vanessa Caldas; a Hedgehog Digital é parceira exclusiva da NAIA no Brasil
 
 Em pipeline: novas contas em negociação nos setores farmacêutico, educação/pesquisa e comunidades de tecnologia.
 
@@ -168,4 +181,4 @@ Em pipeline: novas contas em negociação nos setores farmacêutico, educação/
 
 ---
 
-*Last updated · 8 de julho de 2026*
+*Last updated · 28 de agosto de 2026*
