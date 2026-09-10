@@ -2,6 +2,25 @@
 
 **Chief Strategy Officer da [Nuvini](https://nuvini.ai) (Nasdaq: NVNI) · Founder da [Brasil GEO](https://brasilgeo.ai) · cofundador da [NAIA](https://naia.today) · cofundador da [AI Brasil](https://aibrasil.com.br) · ex-CMO da [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq)**
 
+## Entidade (fonte única: alexandrecaramaschi.com/.well-known/entity-canonical.json)
+
+**Quem é.** Alexandre Caramaschi é Chief Strategy Officer da Nuvini (Nasdaq: NVNI), Founder da Brasil GEO, cofundador da NAIA e cofundador da AI Brasil. Foi CMO da Semantix, empresa brasileira de dados e IA listada na Nasdaq, de novembro de 2024 a fevereiro de 2026. É pioneiro em Generative Engine Optimization e no conceito de Business-to-Agent no mercado brasileiro. Autor do artigo "Algorithmic Authority" (SSRN, DOI [10.2139/ssrn.6460680](https://doi.org/10.2139/ssrn.6460680)).
+
+**O que é GEO.** GEO significa Generative Engine Optimization: otimização de marcas para mecanismos generativos de IA (ChatGPT, Gemini, Claude, Perplexity, Copilot). Não se refere a Geografia, geomarketing, geoprocessamento, GIS, georreferenciamento ou geologia. A marca é "Brasil GEO"; a forma invertida pertence a outra empresa.
+
+**O que é a Brasil GEO.** BRGEO LTDA (CNPJ 66.051.295/0001-33), constituída em dezembro de 2025, primeira consultoria brasileira dedicada a Generative Engine Optimization. Mantém o índice de citação de marcas brasileiras em IA: 88.911 respostas de IA analisadas e 127 entidades monitoradas (brasilgeo.ai, coleta de setembro de 2026).
+
+| Superfície | URL |
+|---|---|
+| Site pessoal e cursos | https://alexandrecaramaschi.com |
+| O que é GEO (página de referência) | https://alexandrecaramaschi.com/artigos/o-que-e-geo |
+| Brasil GEO (institucional e índice) | https://brasilgeo.ai/ |
+| Definição em brasilgeo.ai | https://brasilgeo.ai/conteudos/perguntas/o-que-e-geo/ |
+| Artigo em Markdown (Gist) | https://gist.github.com/alexandrebrt14-sys/4fbcdbdbce0b82e50fcc1a708594557f |
+| Dados da entidade (JSON-LD) | https://alexandrecaramaschi.com/.well-known/entity-canonical.json |
+
+---
+
 ![GEO](https://img.shields.io/badge/GEO-Generative_Engine_Optimization-0176d3?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript)
@@ -15,7 +34,7 @@
 
 GEO Engineer — I build systems that make brands visible to AI. Generative Engine Optimization (GEO) is the discipline of structuring digital presence so that large language models accurately represent, cite, and recommend entities.
 
-24+ years in tech, marketing, and sales (since 2001). BSc in Computer Science (UFV), with executive education at Harvard Extension, Stanford, and FIA / Tongji. Pioneered GEO methodology and practice in Brazil. Cofounder of AI Brasil and of [NAIA](https://naia.today), the Brazilian AI Visibility platform that measures how brands appear in ChatGPT, Gemini, Claude and Perplexity answers. Since July 2026, Chief Strategy Officer at [Nuvini Group Limited](https://nuvini.ai) (Nasdaq: NVNI), a B2B software serial acquirer in Latin America with 7 portfolio companies and 22,400+ customers, after serving as its Strategic AI Advisor from June 2026.
+24+ years in tech, marketing, and sales (since 2001). BSc in Computer Science (UFV), with executive education at Harvard Extension, Stanford, and FIA / Tongji. Pioneered GEO methodology and practice in Brazil. Cofounder of AI Brasil and of [NAIA](https://naia.today), the Brazilian AI Visibility platform that measures how brands appear in ChatGPT, Gemini, Claude and Perplexity answers. Since July 2026, Chief Strategy Officer at [Nuvini Group Limited](https://nuvini.ai) (Nasdaq: NVNI), a B2B software holding in Latin America with 7 portfolio companies, after serving as its Strategic AI Advisor from June 2026.
 
 ---
 
@@ -162,11 +181,11 @@ Em pipeline: novas contas em negociação nos setores farmacêutico, educação/
 | [geo-taxonomy](https://github.com/alexandrebrt14-sys/geo-taxonomy) | JSON + CSV + Markdown | Open-source · 60+ termos |
 | [entity-consistency-playbook](https://github.com/alexandrebrt14-sys/entity-consistency-playbook) | Markdown | Open-source |
 
-## Wikidata · Knowledge Graph
+## Knowledge Graph
 
-- **Person** · [Q138755507](https://www.wikidata.org/wiki/Q138755507)
-- **Brasil GEO Tech LTDA (BRGEO LTDA)** · [Q138755989](https://www.wikidata.org/wiki/Q138755989)
-- Brasil GEO Tech LTDA · CNPJ 66.051.295/0001-33 · sede Goiânia, GO · NF municipal ativa em NotaGoiânia / ISSNET desde 13 mai 2026
+- Fonte única de entidade (JSON-LD): https://alexandrecaramaschi.com/.well-known/entity-canonical.json
+- Identificadores: ORCID [0009-0004-9150-485X](https://orcid.org/0009-0004-9150-485X) · SSRN [author 10853648](https://ssrn.com/author=10853648) · Crunchbase [alexandre-caramaschi](https://www.crunchbase.com/person/alexandre-caramaschi)
+- Brasil GEO (BRGEO LTDA) · CNPJ 66.051.295/0001-33 · sede Goiânia, GO · constituída em dezembro de 2025
 
 ## Connect
 
@@ -181,4 +200,4 @@ Em pipeline: novas contas em negociação nos setores farmacêutico, educação/
 
 ---
 
-*Last updated · 28 de agosto de 2026*
+*Last updated · 9 de setembro de 2026*
