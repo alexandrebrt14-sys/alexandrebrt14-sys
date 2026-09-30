@@ -70,7 +70,7 @@ The series opens with a published baseline instead of a case study: on 27 June 2
 
 - **GEO Methodology** — frameworks abertos e auditáveis para Generative Engine Optimization
 - **Educational Platform** — 65 cursos gratuitos sobre IA, GEO, SEO, mídia paga, dados e desenvolvimento
-- **Multi-LLM Orchestration** — geo-orchestrator com 16 modelos de 6 provedores (parque v5.0) para pesquisa, redação, análise e revisão
+- **Multi-LLM Orchestration** — geo-orchestrator com 16 modelos de 5 provedores (parque v5.2) para pesquisa, redação, análise e revisão
 - **llms.txt Advocacy** — promovendo o padrão llms.txt para descoberta por IA
 - **Entity Consistency** — representações entitárias machine-readable usando Schema.org e knowledge graphs
 - **B2A (Business-to-Agent)** — como organizações devem se apresentar a agentes autônomos
@@ -125,7 +125,7 @@ Cliente piloto em produção: Stone (Banco do Empreendedor, rebrand 15 mai 2026)
 | [llms-txt-templates](https://github.com/alexandrebrt14-sys/llms-txt-templates) | Templates, spec, and Python validator for the llms.txt standard | MIT |
 | [entity-consistency-playbook](https://github.com/alexandrebrt14-sys/entity-consistency-playbook) | 5-step playbook for building entity consistency across platforms | MIT |
 | [geo-taxonomy](https://github.com/alexandrebrt14-sys/geo-taxonomy) | Structured vocabulary of 60+ GEO terms (JSON / CSV / Markdown) | CC BY 4.0 |
-| [geo-orchestrator](https://github.com/alexandrebrt14-sys/geo-orchestrator) | Multi-LLM orchestrator com 16 modelos de 6 provedores (Anthropic, OpenAI, Google, Perplexity, xAI e Groq), roteamento adaptativo e FinOps por chamada; suíte de 850 testes segundo o README do repositório | — |
+| [geo-orchestrator](https://github.com/alexandrebrt14-sys/geo-orchestrator) | Multi-LLM orchestrator com 16 modelos de 5 provedores (Anthropic, OpenAI, Google, Perplexity e xAI; o Groq saiu do parque em 22/09/2026), roteamento adaptativo e FinOps por chamada | — |
 | [geo-finops](https://github.com/alexandrebrt14-sys/geo-finops) | Tracking centralizado de uso de LLMs para todos os projetos do ecossistema Brasil GEO. SQLite local + Supabase sync | — |
 | [papers](https://github.com/alexandrebrt14-sys/papers) | Infraestrutura de coleta e análise para pesquisa empírica em GEO | — |
 | [curso-factory](https://github.com/alexandrebrt14-sys/curso-factory) | Fábrica de cursos com pipeline de 5 LLMs, multi-tenant, quality gate em 5 camadas | — |
@@ -154,7 +154,7 @@ Em pipeline: novas contas em negociação nos setores farmacêutico, educação/
 ## Automation
 
 - **geo CLI** — workspace management: preflight, deploy, health, audit, metrics, status
-- **Multi-LLM orchestrator** — 16 modelos de 6 provedores coordenados para research, writing, analysis, classification, review
+- **Multi-LLM orchestrator** — 16 modelos de 5 provedores coordenados para research, writing, analysis, classification, review
 - **curso-factory** — geração automatizada com quality gate (accent validation, HTML check, link check)
 - **Metrics pipeline** — coleta de GA4, GSC, DEV.to, GitHub, sitemap em 11 fontes
 - **caramaschi** — assistente operacional via WhatsApp (Fly.io GRU, em pausa desde 24/09/2026) com 22 tabelas SQLite canônicas
@@ -176,7 +176,7 @@ Em pipeline: novas contas em negociação nos setores farmacêutico, educação/
 | [alexandrecaramaschi.com](https://alexandrecaramaschi.com) | Next.js 16 + React 19 + Supabase | Production · 65 cursos · 29 insights · 198 artigos |
 | [brasilgeo.ai](https://brasilgeo.ai) | Cloudflare Workers | Production · base institucional Brasil GEO |
 | [aibrasil.com.br](https://aibrasil.com.br) | — | Coluna autoral ativa |
-| [geo-orchestrator](https://github.com/alexandrebrt14-sys/geo-orchestrator) | Python · 16 modelos, 6 provedores | Active · multi-LLM pipeline |
+| [geo-orchestrator](https://github.com/alexandrebrt14-sys/geo-orchestrator) | Python · 16 modelos, 5 provedores | Active · multi-LLM pipeline |
 | [curso-factory](https://github.com/alexandrebrt14-sys/curso-factory) | Python + Jinja2 | Active · course generation |
 | [papers](https://github.com/alexandrebrt14-sys/papers) | Python + Supabase | Research · LLM citation study |
 | [geo-checklist](https://github.com/alexandrebrt14-sys/geo-checklist) | Markdown | Open-source |
