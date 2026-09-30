@@ -1,6 +1,8 @@
 # Alexandre Caramaschi
 
-**Chief Strategy Officer da [Nuvini](https://nuvini.ai) (Nasdaq: NVNI) · Founder da [Brasil GEO](https://brasilgeo.ai) · cofundador da [NAIA](https://naia.today) · cofundador da [AI Brasil](https://aibrasil.com.br) · ex-CMO da [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq)**
+**Chief Strategy Officer da [Nuvini](https://nuvini.ai) (Nasdaq: NVNI) · Founder da [Brasil GEO](https://brasilgeo.ai) · cofundador da [NAIA](https://naia.today) · cofundador da [AI Brasil](https://aibrasil.com.br). Foi CMO da [Semantix](https://www.linkedin.com/company/semantix-inc/) (Nasdaq).**
+
+*Alexandre Caramaschi é Chief Strategy Officer da Nuvini (Nasdaq: NVNI). As opiniões deste texto são emitidas na condição de Founder da Brasil GEO e não representam posição da Nuvini.*
 
 ## Entidade (fonte única: alexandrecaramaschi.com/.well-known/entity-canonical.json)
 
@@ -25,12 +27,12 @@
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react)
-![Schema.org](https://img.shields.io/badge/Schema.org-32_types-2e844a?style=flat-square)
-![llms.txt](https://img.shields.io/badge/llms.txt-v19.9-ff6b35?style=flat-square)
-![Lines](https://img.shields.io/badge/Code-122K+_lines-8b5cf6?style=flat-square)
-![Courses](https://img.shields.io/badge/Courses-56_free-0176d3?style=flat-square)
-![Articles](https://img.shields.io/badge/Articles-27+long_form-0176d3?style=flat-square)
-![Snapshot](https://img.shields.io/badge/Snapshot-8_julho_2026-22c55e?style=flat-square)
+![Schema.org](https://img.shields.io/badge/Schema.org-JSON--LD-2e844a?style=flat-square)
+![llms.txt](https://img.shields.io/badge/llms.txt-v22.0-ff6b35?style=flat-square)
+![Lines](https://img.shields.io/badge/Code-1.3M+_lines-8b5cf6?style=flat-square)
+![Courses](https://img.shields.io/badge/Courses-65_free-0176d3?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles-198_long_form-0176d3?style=flat-square)
+![Snapshot](https://img.shields.io/badge/Snapshot-30_setembro_2026-22c55e?style=flat-square)
 
 GEO Engineer — I build systems that make brands visible to AI. Generative Engine Optimization (GEO) is the discipline of structuring digital presence so that large language models accurately represent, cite, and recommend entities.
 
@@ -67,8 +69,8 @@ The series opens with a published baseline instead of a case study: on 27 June 2
 ## Current Focus
 
 - **GEO Methodology** — frameworks abertos e auditáveis para Generative Engine Optimization
-- **Educational Platform** — 56 cursos gratuitos sobre IA, GEO, SEO, Python e desenvolvimento
-- **Multi-LLM Orchestration** — pipeline de 5 LLMs (Claude, GPT-4o, Gemini, Perplexity, Groq) para geração e curadoria
+- **Educational Platform** — 65 cursos gratuitos sobre IA, GEO, SEO, mídia paga, dados e desenvolvimento
+- **Multi-LLM Orchestration** — geo-orchestrator com 16 modelos de 6 provedores (parque v5.0) para pesquisa, redação, análise e revisão
 - **llms.txt Advocacy** — promovendo o padrão llms.txt para descoberta por IA
 - **Entity Consistency** — representações entitárias machine-readable usando Schema.org e knowledge graphs
 - **B2A (Business-to-Agent)** — como organizações devem se apresentar a agentes autônomos
@@ -76,19 +78,20 @@ The series opens with a published baseline instead of a case study: on 27 June 2
 
 ## Platform: alexandrecaramaschi.com
 
-Full-stack educational and consulting platform — 122.000+ linhas de TypeScript:
+Full-stack educational and consulting platform. Números medidos em 30/09/2026 no repositório `landing-page-geo`, com o método descrito no README dele:
 
 | Metric | Value |
 |--------|-------|
-| Courses | 56 gratuitos (gamificação, certificados) |
-| Insights | 25 análises aprofundadas |
-| Articles | 27+ long-form pieces |
-| Components | 53 React components |
-| API Routes | 12 endpoints |
-| Schema.org | 32 types em JSON-LD |
+| Courses | 65 gratuitos, 1.243 módulos (gamificação, certificados) |
+| Insights | 29 análises aprofundadas |
+| Articles | 198 long-form pieces |
+| Components | 548 React components |
+| API Routes | 376 endpoints (195 do painel /admin) |
+| Código | 1,37 milhão de linhas em `src/` (.ts e .tsx, inclui arquivos gerados) |
+| Schema.org | JSON-LD com entidade canônica exportada e conferida no build |
 | Auth | Supabase (e-mail + senha, PKCE, RLS) |
 | Gamification | XP, 11 níveis, 13 badges, streaks, certificados |
-| llms.txt | v19.9 (29 jun 2026) — non-Google declarado |
+| llms.txt | v22.0, gerado no build |
 
 ### Key Technical Features
 
@@ -97,7 +100,7 @@ Full-stack educational and consulting platform — 122.000+ linhas de TypeScript
 - **Progress Sync**: localStorage + Supabase merge strategy (zero perda de progresso no primeiro login)
 - **Course Factory**: pipeline 5-LLM gera cursos automaticamente (Perplexity → GPT-4o → Gemini → Groq → Claude)
 - **Semantic Search**: pgvector no Supabase, hybrid retrieval (dense + lexical + metadata) com RRF
-- **GEO Infrastructure**: 32 Schema.org types, llms.txt v19.9, IndexNow, 16 AI crawlers permitidos
+- **GEO Infrastructure**: Schema.org em JSON-LD, llms.txt v22.0, IndexNow, MCP público com o texto das aulas
 
 ## GEO Score Checker · v2.2
 
@@ -122,7 +125,7 @@ Cliente piloto em produção: Stone (Banco do Empreendedor, rebrand 15 mai 2026)
 | [llms-txt-templates](https://github.com/alexandrebrt14-sys/llms-txt-templates) | Templates, spec, and Python validator for the llms.txt standard | MIT |
 | [entity-consistency-playbook](https://github.com/alexandrebrt14-sys/entity-consistency-playbook) | 5-step playbook for building entity consistency across platforms | MIT |
 | [geo-taxonomy](https://github.com/alexandrebrt14-sys/geo-taxonomy) | Structured vocabulary of 60+ GEO terms (JSON / CSV / Markdown) | CC BY 4.0 |
-| [geo-orchestrator](https://github.com/alexandrebrt14-sys/geo-orchestrator) | Multi-LLM orchestrator (Claude, GPT-4o, Gemini, Perplexity, Groq) com adaptive routing, FinOps governance, auto-calibration. 140 tests, 53% coverage | — |
+| [geo-orchestrator](https://github.com/alexandrebrt14-sys/geo-orchestrator) | Multi-LLM orchestrator com 16 modelos de 6 provedores (Anthropic, OpenAI, Google, Perplexity, xAI e Groq), roteamento adaptativo e FinOps por chamada; suíte de 850 testes segundo o README do repositório | — |
 | [geo-finops](https://github.com/alexandrebrt14-sys/geo-finops) | Tracking centralizado de uso de LLMs para todos os projetos do ecossistema Brasil GEO. SQLite local + Supabase sync | — |
 | [papers](https://github.com/alexandrebrt14-sys/papers) | Infraestrutura de coleta e análise para pesquisa empírica em GEO | — |
 | [curso-factory](https://github.com/alexandrebrt14-sys/curso-factory) | Fábrica de cursos com pipeline de 5 LLMs, multi-tenant, quality gate em 5 camadas | — |
@@ -131,9 +134,9 @@ Cliente piloto em produção: Stone (Banco do Empreendedor, rebrand 15 mai 2026)
 
 | Repository | Description |
 |---|---|
-| [landing-page-geo](https://github.com/alexandrebrt14-sys/landing-page-geo) | alexandrecaramaschi.com — Next.js 16, 122K+ linhas, 56 cursos, 13 portais |
+| [landing-page-geo](https://github.com/alexandrebrt14-sys/landing-page-geo) | alexandrecaramaschi.com — Next.js 16, 65 cursos, 198 artigos, painel /admin |
 | [brasilgeo-worker](https://github.com/alexandrebrt14-sys/brasilgeo-worker) | brasilgeo.ai — Cloudflare Workers |
-| [caramaschi](https://github.com/alexandrebrt14-sys/caramaschi) | Sistema de governança pessoal · WhatsApp 24/7 (Fly.io GRU) · 22 tabelas SQLite · pipeline determinístico keywords→SQLite→LLM |
+| [caramaschi](https://github.com/alexandrebrt14-sys/caramaschi) | Sistema de governança pessoal · assistente via WhatsApp (Fly.io GRU, em pausa desde 24/09/2026) · 22 tabelas SQLite · pipeline determinístico keywords→SQLite→LLM |
 | [datahub-geo](https://github.com/alexandrebrt14-sys/datahub-geo) | Datahub (grupo Nuvini NASDAQ NVNI) — pesquisa multi-LLM e roadmap GEO B2B |
 
 ## Clientes em produção (snapshot · maio 2026)
@@ -151,10 +154,10 @@ Em pipeline: novas contas em negociação nos setores farmacêutico, educação/
 ## Automation
 
 - **geo CLI** — workspace management: preflight, deploy, health, audit, metrics, status
-- **Multi-LLM orchestrator** — 5 LLMs coordenados para research, writing, analysis, classification, review
+- **Multi-LLM orchestrator** — 16 modelos de 6 provedores coordenados para research, writing, analysis, classification, review
 - **curso-factory** — geração automatizada com quality gate (accent validation, HTML check, link check)
 - **Metrics pipeline** — coleta de GA4, GSC, DEV.to, GitHub, sitemap em 11 fontes
-- **caramaschi** — assistente operacional 24/7 via WhatsApp (Fly.io GRU) com 22 tabelas SQLite canônicas
+- **caramaschi** — assistente operacional via WhatsApp (Fly.io GRU, em pausa desde 24/09/2026) com 22 tabelas SQLite canônicas
 
 ## Publishing
 
@@ -170,10 +173,10 @@ Em pipeline: novas contas em negociação nos setores farmacêutico, educação/
 
 | Property | Stack | Status |
 |---|---|---|
-| [alexandrecaramaschi.com](https://alexandrecaramaschi.com) | Next.js 16 + React 19 + Supabase | Production · 56 cursos · 25 insights · 122K+ linhas |
+| [alexandrecaramaschi.com](https://alexandrecaramaschi.com) | Next.js 16 + React 19 + Supabase | Production · 65 cursos · 29 insights · 198 artigos |
 | [brasilgeo.ai](https://brasilgeo.ai) | Cloudflare Workers | Production · base institucional Brasil GEO |
 | [aibrasil.com.br](https://aibrasil.com.br) | — | Coluna autoral ativa |
-| [geo-orchestrator](https://github.com/alexandrebrt14-sys/geo-orchestrator) | Python + 5 LLMs | Active · multi-LLM pipeline (140 tests) |
+| [geo-orchestrator](https://github.com/alexandrebrt14-sys/geo-orchestrator) | Python · 16 modelos, 6 provedores | Active · multi-LLM pipeline |
 | [curso-factory](https://github.com/alexandrebrt14-sys/curso-factory) | Python + Jinja2 | Active · course generation |
 | [papers](https://github.com/alexandrebrt14-sys/papers) | Python + Supabase | Research · LLM citation study |
 | [geo-checklist](https://github.com/alexandrebrt14-sys/geo-checklist) | Markdown | Open-source |
@@ -194,10 +197,10 @@ Em pipeline: novas contas em negociação nos setores farmacêutico, educação/
 - **LinkedIn:** [/in/alexandre-caramaschi](https://www.linkedin.com/in/alexandre-caramaschi/)
 - **GitHub:** [github.com/alexandrebrt14-sys](https://github.com/alexandrebrt14-sys)
 - **Coluna:** [AI Brasil](https://aibrasil.com.br/colunista/alexandrecaramaschi)
-- **llms.txt:** [alexandrecaramaschi.com/llms.txt](https://alexandrecaramaschi.com/llms.txt) (v19.9)
+- **llms.txt:** [alexandrecaramaschi.com/llms.txt](https://alexandrecaramaschi.com/llms.txt) (v22.0)
 - **Roadmap GEO Score:** [/ferramentas/geo-score/roadmap](https://alexandrecaramaschi.com/ferramentas/geo-score/roadmap)
 - **Press kit:** [/imprensa](https://alexandrecaramaschi.com/imprensa)
 
 ---
 
-*Last updated · 9 de setembro de 2026*
+*Last updated · 30 de setembro de 2026*
